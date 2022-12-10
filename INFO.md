@@ -1,5 +1,1 @@
-git is awesome
-new line
-experimrnt with amend
-new data
-123
+new  INFO.md was created again
